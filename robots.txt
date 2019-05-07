@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yohpozele.johncowen.co.uk/sitemap.xml
